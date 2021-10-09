@@ -1,0 +1,22 @@
+.container{
+    background-color:#eee;
+    border-radius: 5px;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+} 
+.image-container{
+    background-color: white ;
+    padding: 15px;
+}
+.timeline{
+    width: 70%;
+} 
+.timeline-center{
+    text-align: center;
+}
+.top-margin{
+    margin-top: 50px;
+}
